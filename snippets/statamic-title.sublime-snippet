@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+{{ title }}
+]]></content>
+    <tabTrigger>s-title</tabTrigger>
+    <scope>text.html</scope>
+    <description>Statamic title</description>
+</snippet>

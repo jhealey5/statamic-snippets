@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+{{ assets:${1:\$field} limit="${2:\$number}" offset="${3:\$number}" sort="${4:\$options}" }}
+  <img src="{{ url }}" title="{{ title }}" alt="{{ alt }}" />
+{{ /assets:${1:\$field} }}
+]]></content>
+    <tabTrigger>s-assets-options</tabTrigger>
+    <scope>text.html</scope>
+    <description>Statamic assets</description>
+</snippet>

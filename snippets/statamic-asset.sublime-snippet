@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+{{ asset:${1:\$field_name} }}
+  <img src="{{ url }}" title="{{ title }}" alt="{{ alt }}" />
+{{ /asset:${1:\$field_name} }}
+]]></content>
+    <tabTrigger>s-asset</tabTrigger>
+    <scope>text.html</scope>
+    <description>Statamic asset</description>
+</snippet>

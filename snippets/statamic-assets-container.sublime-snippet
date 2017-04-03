@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+{{ assets ${1:\$id|container}="${2:\$id}" folder="${3:\$name}" limit="${4:\$number}" offset="${5:\$number}" sort="${6:\$options}" }}
+	<img src="{{ url }}" title="{{ title }}" alt="{{ alt }}" />
+{{ /assets }}
+]]></content>
+    <tabTrigger>s-assets-container</tabTrigger>
+    <scope>text.html</scope>
+    <description>Statamic assets container</description>
+</snippet>
