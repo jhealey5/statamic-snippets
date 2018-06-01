@@ -4,7 +4,7 @@
   ${2}
 {{ /if }}
 ]]></content>
-    <tabTrigger>s-if</tabTrigger>
-    <scope>text.html</scope>
+    <tabTrigger>if</tabTrigger>
+    <scope>text.html.statamic</scope>
     <description>Statamic if</description>
 </snippet>

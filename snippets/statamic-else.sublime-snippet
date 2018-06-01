@@ -1,12 +1,9 @@
 <snippet>
   <content><![CDATA[
-{{ if ${1:\$condition} }}
-  ${2} 
 {{ else }}
-  ${3}
-{{ /if }}
+  ${1}
 ]]></content>
-    <tabTrigger>s-else</tabTrigger>
-    <scope>text.html</scope>
+    <tabTrigger>else</tabTrigger>
+    <scope>text.html.statamic</scope>
     <description>Statamic if else</description>
 </snippet>

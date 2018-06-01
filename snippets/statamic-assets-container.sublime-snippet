@@ -4,7 +4,7 @@
 	<img src="{{ url }}" title="{{ title }}" alt="{{ alt }}" />
 {{ /assets }}
 ]]></content>
-    <tabTrigger>s-assets-container</tabTrigger>
-    <scope>text.html</scope>
+    <tabTrigger>asset-container</tabTrigger>
+    <scope>text.html.statamic</scope>
     <description>Statamic assets container</description>
 </snippet>

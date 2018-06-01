@@ -2,7 +2,7 @@
   <content><![CDATA[
 {{ content }}
 ]]></content>
-    <tabTrigger>s-content</tabTrigger>
-    <scope>text.html</scope>
+    <tabTrigger>content</tabTrigger>
+    <scope>text.html.statamic</scope>
     <description>Statamic content</description>
 </snippet>
